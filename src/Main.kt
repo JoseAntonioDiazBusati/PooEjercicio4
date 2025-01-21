@@ -27,4 +27,7 @@ cuando el valor de una propiedad no es correcto (según los resuisitos del ejerc
 
 fun main() {
 
+    val coche1 = Coche("Rojo","toyota", "yaris",350,4,"5445LPM")
+    println(coche1)
+
 }
