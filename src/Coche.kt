@@ -1,4 +1,4 @@
-class Coche (var color: String?, val marca: String?, val modelo:String?, val numCaballos: Int?, val numPuertas: Int?, val matricula: String?) {
+class Coche (var color: String?, marca: String?, modelo:String?, val numCaballos: Int?, val numPuertas: Int?, val matricula: String?) {
 
 
     init {
